@@ -1,6 +1,6 @@
 # Linda Ngoc Nguyen @iflinda
 
-[Hello! I'm Linda Ngoc Nguyen](https://user-images.githubusercontent.com/68607795/151476487-94e2bb4e-91dc-459e-bbd2-bb81732a2b5d.png)
+![Hello! I'm Linda Ngoc Nguyen](https://user-images.githubusercontent.com/68607795/151476603-01d24c9c-984d-4fa3-a238-6d041ae8f596.png)
 
 Hi. I'm Linda, and I'm enrolled in the Full-stack Web Development Diploma Program at the British Columbia Institute of Technology located in Vancouver, BC in Canada. I'll be graduating in April 2022. 
 
